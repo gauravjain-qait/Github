@@ -10,4 +10,4 @@ github password shouldn't contain '@'
 More work to do:
 -Github API 
 -OS Independent 
--'@' charater in password, code will not work.
+-Bug fix
